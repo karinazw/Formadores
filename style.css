@@ -11,6 +11,8 @@ section{
 }
 .chamada-texto{
     margin: 5%;
+    padding-left: 20px;
+    padding-right: 20px;
     
 }
 header{
@@ -31,5 +33,6 @@ img{
 
     h2{
         padding-left: 20px;
+        padding-right: 500px;
     }
 
